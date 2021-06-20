@@ -1,1 +1,2 @@
 # FunkyFriday
+This is a bot made from me, foxbot. It's an alias and all, but still. This bot, was made in about 8 hours or so. Nothing complex. But works exceptionally. It has a few limitations, such as resolution. Roblox must be ran at 1080p fullscreen and must have mid roll notes in funky friday. It's also recommended to turn down anything that hogs resources. As of my testing this can run around 25fps. Allowing for most to all notes being hit. More fixes are to come!
